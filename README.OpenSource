@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "base64",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.13.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/marshallpierce/rust-base64",
+    "Description": "encodes and decodes base64 as bytes or utf8."
+  }
+]
